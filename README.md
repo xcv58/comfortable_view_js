@@ -9,11 +9,13 @@ It has small font size, no margin or padding, and the content is too wide to rea
 This bookmarklet can improve your experience when you visit such webpags. It's more comfortable for me.
 
 # Usage
+<!---
 * You can just drag this link to your bookmark bar:
 
 [Comfortable View](javascript:(function(){document.body.appendChild(document.createElement('script')).src='https://dl.dropboxusercontent.com/u/4121165/js/comfortable_view.js';})();)
+-->
 
-* Or you can copy the below line and make a bookmark manually:
+* You can copy the below line and make a bookmark manually:
 ```javascript
 javascript:(function(){document.body.appendChild(document.createElement('script')).src='https://dl.dropboxusercontent.com/u/4121165/js/comfortable_view.js';})();
 ```
