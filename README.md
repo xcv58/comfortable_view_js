@@ -17,7 +17,9 @@ This bookmarklet can improve your experience when you visit such webpags. It's m
 
 * You can copy the below line and make a bookmark manually:
 ```javascript
+
 javascript:(function(){document.body.appendChild(document.createElement('script')).src='https://dl.dropboxusercontent.com/u/4121165/js/comfortable_view.js';})();
+
 ```
 
 * Or you can copy the last line of comfortable_view_bookmarklet.js, and make a bookmark in your browser as url.
