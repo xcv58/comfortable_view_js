@@ -1,6 +1,6 @@
 (function()
 {
-    var contentWidth = 550;
+    var contentWidth = 750;
     var width = window.innerWidth;
     var marginWidth = width / 5;
     if (width / 3 >= contentWidth)
